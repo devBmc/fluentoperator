@@ -1,1 +1,4 @@
-#.Git Module
+[submodule "fluentoperator"]
+  path = fluentoperator
+  url = https://github.com/fluent/fluent-operator.git
+  branch = master
